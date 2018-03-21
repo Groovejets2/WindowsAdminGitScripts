@@ -5,6 +5,8 @@ set projectUrl=https://github.com/Groovejets2/%projectName%.git
 
 git add .
 
+git rm git_commit.cmd -f
+
 git commit -m %commitDesc%
 
 git push origin master
