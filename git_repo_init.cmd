@@ -14,4 +14,6 @@ git commit -m "First commit"
 
 git remote add origin %projectUrl%
 
+git status
+
 git push -u origin master
