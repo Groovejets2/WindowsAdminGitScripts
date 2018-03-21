@@ -18,6 +18,8 @@ git push -u origin master
 
 git rm git_repo_init.cmd
 
+git add .
+
 git commit -m "Remove the git_repo_init.cmd file"
 
 git push origin master
